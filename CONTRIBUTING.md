@@ -46,5 +46,9 @@ Write certain words at the beginning of the commit message to make it easier to 
 |fix: |Bug Fixes |
 |docs: |Document Only Changes |
 |style: |Appearance-only changes that do not affect the behavior of the code (formatting, spaces, etc.) |
+|refactor: |Code changes that do not fix bugs or add functionality |
+|perf: |Code changes to improve performance |
+|test: |Add or change tests|
+|chore: |Changes to auxiliary tools and libraries, such as build process and documentation generation|
 
 
