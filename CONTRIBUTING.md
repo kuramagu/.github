@@ -19,8 +19,7 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - Follow standards for style and code quality
 - Write tests.
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
-- Write a good commit message with reference to [next](#write_a_commit_message).
-
+- Write a good commit message with reference to [next](#write-a-commit-message).
 
 
 ## write a commit message
