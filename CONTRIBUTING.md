@@ -41,7 +41,7 @@ Write certain words at the beginning of the commit message to make it easier to 
 
 
 | prefix | description |
-|:---|---:|
+|:---|:---|
 |feat: |new feature |
 |fix: |Bug Fixes |
 |docs: |Document Only Changes |
